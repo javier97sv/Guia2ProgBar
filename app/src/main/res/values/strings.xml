@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Guia2 Progress Bar</string>
+    <string name="msgLogin">Ingrese sus datos</string>
+    <string name="tituloMain">Guia2Prog</string>
+    <string name="tituloDatos">Datos del alumno:</string>
+    <string name="nombre">Carlos Javier Cañénguez Martínez</string>
+    <string name="codigo">CM16-I04-001</string>
+    <string name="correlativo">01</string>
+    <string name="msgFruta">Digite su fruta favorita:</string>
+    <string name="msgAnimal">Digite su animal favorito:</string>
+    <string name="msgLenguaje">Digite su lenguaje de programación favorito:</string>
+    <string name="hCorreo">Correo electrónico</string>
+    <string name="hPass">Contraseña</string>
+    <string name="btnIniciar">INICIAR SESIÓN</string>
+    <string name="btnDatos">DATOS</string>
+    <string name="btnProcesar">PROCESAR</string>
+    <string name="hFruta">Ej. Mango</string>
+    <string name="hAnimal">Ej. Gato</string>
+    <string name="hLenguaje">Ej. C#</string>
+    <string name="infoBoton">Mantenga presionado el boton</string>
+</resources>
